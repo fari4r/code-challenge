@@ -1,0 +1,36 @@
+
+
+.btn_con {
+    display: flex;
+    justify-content: end;
+    align-items: center;    
+    background-color: 'red';
+}
+
+.record_con {
+    margin-top : 10px ; 
+    border : 1px solid black ; 
+    padding : 10px 20px; 
+}
+
+.record_btn {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+}
+
+
+.menuItem-con { 
+    flex-direction:  row-reverse    ;
+     display: flex;
+     justify-content: start;
+     align-items: center;
+}
+
+.record-text {
+    display: flex;
+    justify-content: start; 
+    align-items: center;
+
+}
